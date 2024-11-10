@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Xing social network</h2>
 
-![Xing dataset header](https://github.com/luminati-io/Xing-dataset-sample/blob/main/Xing-datasets.png)
+![Xing dataset header](https://github.com/luminati-io/Xing-dataset-samples/blob/main/Xing-datasets%20(1).png)
 
 A Xing dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
